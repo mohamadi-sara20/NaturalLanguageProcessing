@@ -1,0 +1,11 @@
+tag1,tag2,probability
+ART,^,0.71
+N,^,0.29
+N,ART,1
+N,N,0.13
+P,N,0.44
+N,V,0.35
+ART,V,0.65
+ART,P,0.74
+N,P,0.26
+V,N,0.43
